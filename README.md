@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek Joshi
 - 👀 I’m interested in Web Development, Automation, GIS, Python etc
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning D3.js
 - 💞️ I’m looking to collaborate on any project that suits me
 - 📫 How to reach me mail me at hireabhishekjoshi@gmail.com
 
