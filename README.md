@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://wallpapercave.com/wp/wp9364029.png" height=300px width="auto">
+  <img src="https://wallpapercave.com/wp/wp9364030.jpg" width=900px>
 </p>
