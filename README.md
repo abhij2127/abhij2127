@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Abhishek Joshi
-- 👀 I’m interested in Web Development, Automation, GIS, Python etc
-- 🌱 I’m currently learning D3.js
-- 💞️ I’m looking to collaborate on any project that suits me
-- 📫 How to reach me mail me at hireabhishekjoshi@gmail.com
-
-<!---
-abhij2127/abhij2127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Abhishek Joshi's Github
+<p align="center">
+  <a href="https://twitter.com/JocAbhi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=appveyor" alt="Twitter Follow">
+  </a>
+   <a href="https://youtube.com/lifeHackers" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-Subscribe-red?style=for-the-badge&logo=appveyor" alt="Youtube Subscribe">
+  </a>
+   <a href="https://linkedin.com/abhishekjoshi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-informational?style=for-the-badge&logo=appveyor" alt="LinkedIn Connect">
+  </a>
+   <a href="mailto:hireabhishekjoshi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20me-orange?style=for-the-badge&logo=appveyor" alt="Gmail mail">
+  </a>
+</p>
